@@ -68,6 +68,23 @@ body {
     margin-bottom: 30px;
 }
 
+.main-sect {
+    background-color: #1a233a; /* Light Blue */
+    color: #000; /* Change text color to black for contrast */
+    padding: 50px 20px;
+}
+
+.main-sect h2 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #7dbaf5;
+}
+
+.main-sect h3 {
+    color: #7dbaf5;
+}
+
 .threats-container {
     display: flex;
     justify-content: space-around;
