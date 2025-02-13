@@ -15,9 +15,16 @@ body {
 .navbar a {
     color: #fff;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 10px 15px;
     font-size: 16px;
     margin: 0 10px;
+    display: inline-block;
+}
+
+.navbar a:hover {
+    background-color: rgba(12, 9, 43, 0.374); /* Подсветка при наведении */
+    border-radius: 10px; /* Закругление углов */
+
 }
 
 /* Header Section */
